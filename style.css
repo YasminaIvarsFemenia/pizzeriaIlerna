@@ -1,0 +1,23 @@
+#h1 {
+background-color:blue;/*Color de fondo*/
+color: white;/*Color de letra*/
+font-family: Cambria;/* tipo de letra*/
+font-size: 50px; /* tamaño de letra*/
+padding: 20px;/*Margen por el interior*/
+text-align: center;/*aliñear*/
+}
+#logo {
+color: white ;
+font-family: Arial, Helvetica, sans-serif;
+font-size:40px;
+text-align: left;
+background-color:blue;
+}
+
+#direccion{
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+text-align: right;
+
+}
